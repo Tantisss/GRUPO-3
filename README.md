@@ -36,7 +36,7 @@ Desarrollo de Aplicaciones Open Source
 | Integrante | Código |
 |---|---|
 | NICOLAS TANTALEAN GRANDA | U202410728 |
-| [Nombre completo 2] | [Código] |
+| Carlos Cespedes Lezano | [U202416147 |
 | [Nombre completo 3] | [Código] |
 | [Nombre completo 4] | [Código] |
 
